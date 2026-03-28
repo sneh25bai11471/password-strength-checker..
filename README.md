@@ -1,4 +1,11 @@
+
+
+Name: SNEH NAMDEV 
+Registration Number: 25BAI11471  
+Course: B.Tech CSE (AIML)
 Password Strength Checker
+
+This project is a simple program...Password Strength Checker
 
 This project is a simple program that checks how strong a password is.
 
